@@ -18,3 +18,7 @@ def browse_words_file():
     print(words_file_path)
 
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
